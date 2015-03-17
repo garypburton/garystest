@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Gary P Burton -- Developer -- @Gary_P_Burton
+
+# THANKS
+
+    Andy Pimlett, Warren Keith
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, SASS, COMPASS
+    jQuery, Modernizr
